@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "heure": "19:05",
+  "heure": "19:12",
   "signaux": [
     {
       "ticker": "BRK-B",
@@ -123,26 +123,6 @@
       "take_profit": 207.8
     },
     {
-      "ticker": "AAPL",
-      "prob_hausse": 29.9,
-      "signal": "🚨 DANGER",
-      "emoji": "⚪",
-      "rsi": 48.607349407489046,
-      "adx": 22.05342095994718,
-      "bb_position": 50,
-      "bo_score": 0.693157514490414,
-      "vol_ratio": 0.9893570146441306,
-      "ret_1d": 3.16678635631115,
-      "ret_5d": -3.91085515451704,
-      "ret_20d": 3.3643482641761704,
-      "squeeze": false,
-      "atr": 0,
-      "crash_risk": 57.0,
-      "sizing": 0.0,
-      "stop_loss": 250.21,
-      "take_profit": 287.81
-    },
-    {
       "ticker": "GOOGL",
       "prob_hausse": 29.9,
       "signal": "🚨 DANGER",
@@ -161,6 +141,26 @@
       "sizing": 0.0,
       "stop_loss": 282.43,
       "take_profit": 336.31
+    },
+    {
+      "ticker": "AAPL",
+      "prob_hausse": 29.7,
+      "signal": "🚨 DANGER",
+      "emoji": "⚪",
+      "rsi": 48.607349407489046,
+      "adx": 22.05342095994718,
+      "bb_position": 50,
+      "bo_score": 0.693157514490414,
+      "vol_ratio": 0.9893570146441306,
+      "ret_1d": 3.16678635631115,
+      "ret_5d": -3.91085515451704,
+      "ret_20d": 3.3643482641761704,
+      "squeeze": false,
+      "atr": 0,
+      "crash_risk": 57.9,
+      "sizing": 0.0,
+      "stop_loss": 250.21,
+      "take_profit": 287.81
     },
     {
       "ticker": "SAP.DE",
