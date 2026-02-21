@@ -1,7 +1,13 @@
 {
   "date": "2026-02-21",
   "heure": "19:05",
-  "predictions": [
+  "resume": {
+    "nb_achats": 0,
+    "nb_ventes": 1,
+    "nb_danger": 10,
+    "top_achat": "Aucun"
+  },
+  "signaux": [
     {
       "ticker": "BRK-B",
       "prob_hausse": 46.0,
@@ -249,11 +255,5 @@
       "ret_20d": -1.27374691331932,
       "expected_ret": 0.03
     }
-  ],
-  "resume": {
-    "nb_achats": 0,
-    "nb_ventes": 1,
-    "nb_danger": 10,
-    "top_achat": "Aucun"
-  }
+  ]
 }
