@@ -1,10 +1,10 @@
 {
-  "date": "2026-02-20",
-  "heure": "17:17",
+  "date": "2026-02-21",
+  "heure": "15:21",
   "signaux": [
     {
       "ticker": "JPM",
-      "prob_hausse": 56.51213073730469,
+      "prob_hausse": 56.51216506958008,
       "signal": "ACHAT",
       "emoji": "\ud83d\udfe2",
       "rsi": 47.54188336458236,
@@ -52,7 +52,7 @@
     },
     {
       "ticker": "MC.PA",
-      "prob_hausse": 48.39216232299805,
+      "prob_hausse": 48.39216613769531,
       "signal": "NEUTRE",
       "emoji": "\u26aa",
       "rsi": 46.413845104824176,
@@ -68,7 +68,7 @@
     },
     {
       "ticker": "GOOGL",
-      "prob_hausse": 48.00606918334961,
+      "prob_hausse": 48.006072998046875,
       "signal": "NEUTRE",
       "emoji": "\u26aa",
       "rsi": 46.36503758343493,
@@ -84,7 +84,7 @@
     },
     {
       "ticker": "AIR.PA",
-      "prob_hausse": 46.54512405395508,
+      "prob_hausse": 46.545143127441406,
       "signal": "NEUTRE",
       "emoji": "\u26aa",
       "rsi": 43.15835094145396,
@@ -100,7 +100,7 @@
     },
     {
       "ticker": "BRK-B",
-      "prob_hausse": 46.49334716796875,
+      "prob_hausse": 46.49344253540039,
       "signal": "NEUTRE",
       "emoji": "\u26aa",
       "rsi": 49.38226299679521,
@@ -132,7 +132,7 @@
     },
     {
       "ticker": "NVDA",
-      "prob_hausse": 44.320796966552734,
+      "prob_hausse": 44.32074737548828,
       "signal": "VENTE",
       "emoji": "\ud83d\udd34",
       "rsi": 54.75513392285757,
@@ -148,7 +148,7 @@
     },
     {
       "ticker": "AAPL",
-      "prob_hausse": 44.15431213378906,
+      "prob_hausse": 44.15436935424805,
       "signal": "VENTE",
       "emoji": "\ud83d\udd34",
       "rsi": 48.708681598266274,
@@ -180,7 +180,7 @@
     },
     {
       "ticker": "EWQ",
-      "prob_hausse": 39.40796661376953,
+      "prob_hausse": 39.407981872558594,
       "signal": "VENTE",
       "emoji": "\ud83d\udd34",
       "rsi": 66.74683686461402,
@@ -196,7 +196,7 @@
     },
     {
       "ticker": "MSFT",
-      "prob_hausse": 38.06618881225586,
+      "prob_hausse": 38.06629180908203,
       "signal": "VENTE",
       "emoji": "\ud83d\udd34",
       "rsi": 33.034372809985015,
