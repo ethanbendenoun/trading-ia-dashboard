@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "heure": "19:12",
+  "heure": "19:20",
   "signaux": [
     {
       "ticker": "BRK-B",
@@ -104,7 +104,7 @@
     },
     {
       "ticker": "NVDA",
-      "prob_hausse": 32.0,
+      "prob_hausse": 31.9,
       "signal": "🚨 DANGER",
       "emoji": "⚪",
       "rsi": 49.69542527328266,
@@ -117,30 +117,10 @@
       "ret_20d": -0.67657978614751,
       "squeeze": false,
       "atr": 0,
-      "crash_risk": 61.3,
+      "crash_risk": 61.6,
       "sizing": 0.0,
       "stop_loss": 171.92,
       "take_profit": 207.8
-    },
-    {
-      "ticker": "GOOGL",
-      "prob_hausse": 29.9,
-      "signal": "🚨 DANGER",
-      "emoji": "⚪",
-      "rsi": 30.03803703040424,
-      "adx": 30.499851466194297,
-      "bb_position": 50,
-      "bo_score": 3.0403457529359907e-10,
-      "vol_ratio": 0.976738392683048,
-      "ret_1d": -1.21026174023862,
-      "ret_5d": -6.87593050287946,
-      "ret_20d": -8.47879120797822,
-      "squeeze": false,
-      "atr": 0,
-      "crash_risk": 62.1,
-      "sizing": 0.0,
-      "stop_loss": 282.43,
-      "take_profit": 336.31
     },
     {
       "ticker": "AAPL",
@@ -161,6 +141,26 @@
       "sizing": 0.0,
       "stop_loss": 250.21,
       "take_profit": 287.81
+    },
+    {
+      "ticker": "GOOGL",
+      "prob_hausse": 29.7,
+      "signal": "🚨 DANGER",
+      "emoji": "⚪",
+      "rsi": 30.03803703040424,
+      "adx": 30.499851466194297,
+      "bb_position": 50,
+      "bo_score": 3.0403457529359907e-10,
+      "vol_ratio": 0.976738392683048,
+      "ret_1d": -1.21026174023862,
+      "ret_5d": -6.87593050287946,
+      "ret_20d": -8.47879120797822,
+      "squeeze": false,
+      "atr": 0,
+      "crash_risk": 63.0,
+      "sizing": 0.0,
+      "stop_loss": 282.43,
+      "take_profit": 336.31
     },
     {
       "ticker": "SAP.DE",
@@ -184,7 +184,7 @@
     },
     {
       "ticker": "MSFT",
-      "prob_hausse": 26.2,
+      "prob_hausse": 28.5,
       "signal": "🚨 DANGER",
       "emoji": "⚪",
       "rsi": 30.970169102662386,
@@ -197,7 +197,7 @@
       "ret_20d": -13.69982274623017,
       "squeeze": false,
       "atr": 0,
-      "crash_risk": 62.2,
+      "crash_risk": 50.3,
       "sizing": 0.0,
       "stop_loss": 371.67,
       "take_profit": 438.46
